@@ -10,3 +10,5 @@
 Evaluating different classification algorithms to identify verified Twitter users in a dataset of 400,000 tweets
 
 Contributors: Taylor Barmak, Lukas Houpt, Eseyab Lemma
+
+https://eseyab.github.io/Node-Pro-Final-Project/
